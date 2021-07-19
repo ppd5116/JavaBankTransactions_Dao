@@ -98,11 +98,10 @@ public class BankCustomerDaoDemo {
 			break;
 			
 		case "no":
+			System.out.println("\nLogging out of Bank Customer Records!!");
 			break;
 		default: System.out.println("Not a valid answer");
 		}
-		
-		System.out.println("\nLogging out of Bank Customer Records!!");
 	}
 
 }
